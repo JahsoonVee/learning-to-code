@@ -1,0 +1,121 @@
+* { margin: 0;
+    padding:0;
+}
+
+body {
+    background-color: #e8d6cb;
+    margin: 0;
+    padding:0;
+}
+
+.page-header {
+    background-color:#ad6a6c ;
+    height: 101px;
+    width: 100%;
+}
+
+#mary-logo {
+    width: 100px;
+    height:auto ;
+    position: absolute;
+    border-radius: 40%;
+    top:10px;
+    left:30px;
+}
+
+h1 {
+    font-family: Lobster,cursives;
+    color:white;
+    font-size: 50px;  
+    position: relative;
+    top:15px;
+    left: 150px;
+}
+
+.nav-bar {
+    float: right;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    position: relative;
+    bottom:35px;
+    right: 40px;
+    font-family: Lobster,cursives;
+}
+
+.nav-bar li {
+    display: inline;
+    margin-right:30px;
+    
+}
+
+.nav-bar li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar li a:hover{
+    background-color: lightpink;
+}
+
+img {
+    width:100%;
+    height:auto;
+}
+
+#about {
+    font-size:35px;
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight:lighter;
+    letter-spacing: 2px;
+}
+
+.page-menu {
+
+}
+
+.page-menu p {
+    font-family: lobster,cursive;
+    font-size: 40px;
+    position: relative;
+    top:100px;
+    left:700px;
+
+}
+
+#bread-pudding {
+    width:300px;
+    height: auto;
+    position: relative;
+    top:100px;
+    left: 500px;
+}
+
+#carrot-cake {
+    width:300px;
+    height: auto;
+    position: relative;
+    top:100px;
+    left: 550px;
+}
+
+#cheese-cake {
+    width:300px;
+    height: auto;
+    position: relative;
+    top:150px;
+    left: 400px;
+}
+
+#baked-sushi {
+    width:300px;
+    height: auto;
+    position: relative;
+    top:150px;
+    left: 450px;
+}
